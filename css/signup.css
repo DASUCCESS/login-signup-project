@@ -5,7 +5,7 @@ body,
 			height: 100%;
 		}
 		.bgimg{
-			background-image: url(../image/bgimag.jpg) !important;
+			background-image: url(../images/bgimag.jpg) !important;
 			background-repeat: no-repeat;
 			background-size: cover;
 			opacity: .3;
